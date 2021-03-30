@@ -76,13 +76,12 @@ the Bureau of Investigative Journalism
 - Discovered statistics on the number of strikes and civilian casualties in each country
 - Visualized the change in the number of strikes and civilian casualties throughout the period
 - Mapped specific strike locations and identified the most targeted groups
-Intreprid Potash Business P
 
 
 __Research and Business Development Center__, Consultant for Intrepid Potash
 `Jan 2021 – Present`
 
-- Conducting multiple linear regression model tests to find significant correlations in company data
+- Conducting multiple linear regression models to find significant correlations in company data
 which is helping management make key decisions on improving their production line
 - Applied RStudio pair plots to find correlations in company data
 - Generated plots to find issues with regression model assumptions
@@ -97,13 +96,13 @@ understanding to the scientific community about the mechanisms of pregnancy
 ## Service and Work History
 
 
-__Big Giant Framing__, Framer
+__Big Giant Framing__,Framer
 `July 2021 – Sep 2021`
 
 - Install floor, wall & roof structures according to blueprints, for custom homes
 - Responsible to work independently or as a team to meet deadlines
 
-__ Ray's Chevron__, Cashier
+__Ray's Chevron__,Cashier
 `Apr 2019 - July 2020`
 
 -	Counted daily entry of store revenue 
