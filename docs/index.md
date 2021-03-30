@@ -84,6 +84,8 @@ __Research and Business Development Center__, Consultant for Intrepid Potash
 
 - Conducting multiple linear regression model tests to find significant correlations in company data
 which is helping management make key decisions on improving their production line
+- Applied RStudio pair plots to find correlations in company data
+- Generated plots to find issues with regression model assumptions
 
 __Mink Genome Research__
 `Mar 2021 – Present`
