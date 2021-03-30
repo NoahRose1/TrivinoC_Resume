@@ -24,7 +24,7 @@ __LDS Business College__, Salt Lake City, UT
 `2017-2018`
 
 __Brigham Young University - Idaho__, Rexburg, ID
-`2018-Expected Graduation 2022`
+`2018 - Expected 2022`
 
 - 3.3 GPA
 
