@@ -95,6 +95,15 @@ __Big Giant Framing__, Framer
 - Install floor, wall & roof structures according to blueprints, for custom homes
 - Responsible to work independently or as a team to meet deadlines
 
+`Apr 2019 - July 2020`
+__ Ray's Chevron__, Cashier
+
+-	Counted daily entry of store revenue 
+-	Provided Customer service which helped to resolve issues customers had
+- Programmed gift cards to help customers recieve discounts
+-	Performed detailing of vehicles
+
+
 
 `2015-2017`
 __Service Missionary__, Canada
