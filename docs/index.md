@@ -79,7 +79,7 @@ the Bureau of Investigative Journalism
 Intreprid Potash Business P
 
 
-__Intrepid Potash Business Project__
+__Research and Business Development Center__, Consultant for Intrepid Potash
 `Jan 2021 – Present`
 
 - Conducting multiple linear regression model tests to find significant correlations in company data
