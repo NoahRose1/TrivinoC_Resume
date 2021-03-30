@@ -18,7 +18,6 @@ Future machine learning engineer/data scientist
 ## Education
 
 `2013-2014`
-
 __Weber State University__, Ogden, UT
 
 `2017-2018`
