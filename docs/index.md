@@ -113,7 +113,7 @@ __ Ray's Chevron__, Cashier
 
 
 __Service Missionary__, Canada
-`2015-2017`
+`Jan 2015 - Jan 2017`
 
 
 
