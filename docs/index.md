@@ -26,6 +26,7 @@ __LDS Business College__, Salt Lake City, UT
 __Brigham Young University - Idaho__, Rexburg, ID
 `2018 - Expected 2022`
 
+- Associates in General Studies
 - 3.3 GPA
 
 
