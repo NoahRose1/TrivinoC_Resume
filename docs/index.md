@@ -17,69 +17,89 @@ Future machine learning engineer/data scientist
 
 ## Education
 
-`2025-2027`
+`2013-2014`
+__Weber State University__, Ogden, UT
+
+`2017-2018`
 __LDS Business College__, Salt Lake City, UT
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2018-Expected Graduation 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.3 GPA
 
 
-## Related Experience
+## Relavant Work Experience
 
-### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`March 2021 - Present`
+__Machine Learning Teaching Assistant__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Assisting students in understanding the process of using machine learning to mine knowledge and patters from data using Python and Scikit-learn libraries.
 
-### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### 
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`Sep 2018 - Jun 2019`
+__Home Care Pulse__, Satisfaction Research Associate
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Documented and evaluated client and employee satisfaction to help Management provide
+recommendations and solutions to customers which helped increase customer retention.
+- Gathered data from home care employees for over 50 companies and documented outcomes to
+help improve future services for clients
+- Recorded large amounts of client information and produced reports, spreadsheets and documents
+outlining key details to increase employee work satisfaction through suggested changes
 
-### Data Science Consulting Team
+`March 2017 - Aug 2018`
+__Chrysalis Enterprises__, Registered Behavioral Technician / Support Staff
 
-`January 2027 - April 2027`
-__Imagine Learning__
+-  Documented and evaluated client and employee satisfaction to help Management provide
+recommendations and solutions to customers which helped increase customer retention
+- Gathered data from home care employees for over 50 companies and documented outcomes to
+help improve future services for clients
+- Recorded large amounts of client information and produced reports, spreadsheets and documents
+outlining key details to increase employee work satisfaction through suggested changes
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+### Projects
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+`Dec 2020`
+__Drone Strike Analysis__
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Generated a statistical analysis of U.S. Military drone strikes from 2002 – 2018 from data provided by
+the Bureau of Investigative Journalism
+- Discovered statistics on the number of strikes and civilian casualties in each country
+- Visualized the change in the number of strikes and civilian casualties throughout the period
+- Mapped specific strike locations and identified the most targeted groups
+Intreprid Potash Business P
+
+`Jan 2021 – Present`
+__Intrepid Potash Business Project__
+
+- Conducting multiple linear regression model tests to find significant correlations in company data
+which is helping management make key decisions on improving their production line
+
+`Mar 2021 – Present`
+__Mink Genome Project__
+
+-  Creating RNA-sequencing visualizations for BYU-Idaho biology professors, which will contribute greater
+understanding to the scientific community about the mechanisms of pregnancy
+
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`July 2021 – Sep 2021`
+__Big Giant Framing__, Framer
+
+- Install floor, wall & roof structures according to blueprints, for custom homes
+- Responsible to work independently or as a team to meet deadlines
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2015-2017`
+__Service Missionary__, Canada
+
+
 
 
 
