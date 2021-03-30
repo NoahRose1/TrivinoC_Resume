@@ -85,7 +85,7 @@ __Intrepid Potash Business Project__
 - Conducting multiple linear regression model tests to find significant correlations in company data
 which is helping management make key decisions on improving their production line
 
-__Mink Genome Project__
+__Mink Genome Research__
 `Mar 2021 – Present`
 
 -  Creating RNA-sequencing visualizations for BYU-Idaho biology professors, which will contribute greater
