@@ -81,7 +81,7 @@ the Bureau of Investigative Journalism
 __Research and Business Development Center__, Consultant for Intrepid Potash
 `Jan 2021 – Present`
 
-- Conducting multiple linear regression models to find significant correlations in company data
+- Applied predictive modeling techniques to find significant correlations in company data
 which is helping management make key decisions on improving their production line
 - Applied RStudio pair plots to find correlations in company data
 - Generated plots to find issues with regression model assumptions
