@@ -17,14 +17,14 @@ Future machine learning engineer/data scientist
 
 ## Education
 
-`2013-2014`
 __Weber State University__, Ogden, UT
+`2013-2014`
 
-`2017-2018`
 __LDS Business College__, Salt Lake City, UT
+`2017-2018`
 
-`2018-Expected Graduation 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
+`2018-Expected Graduation 2022`
 
 - 3.3 GPA
 
@@ -32,8 +32,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ## Relavant Work Experience
 
 
-`March 2021 - Present`
+
 __Machine Learning Teaching Assistant__, Rexburg, ID
+`March 2021 - Present`
 
 - Assisting students in understanding the process of using machine learning to mine knowledge and patters from data using Python and Scikit-learn libraries.
 
@@ -41,8 +42,9 @@ __Machine Learning Teaching Assistant__, Rexburg, ID
 
 ### 
 
-`Sep 2018 - Jun 2019`
+
 __Home Care Pulse__, Satisfaction Research Associate
+`Sep 2018 - Jun 2019`
 
 - Documented and evaluated client and employee satisfaction to help Management provide
 recommendations and solutions to customers which helped increase customer retention.
@@ -51,8 +53,9 @@ help improve future services for clients
 - Recorded large amounts of client information and produced reports, spreadsheets and documents
 outlining key details to increase employee work satisfaction through suggested changes
 
-`March 2017 - Aug 2018`
+
 __Chrysalis Enterprises__, Registered Behavioral Technician / Support Staff
+`March 2017 - Aug 2018`
 
 -  Documented and evaluated client and employee satisfaction to help Management provide
 recommendations and solutions to customers which helped increase customer retention
@@ -63,8 +66,9 @@ outlining key details to increase employee work satisfaction through suggested c
 
 ### Projects
 
-`Dec 2020`
+
 __Drone Strike Analysis__
+`Dec 2020`
 
 - Generated a statistical analysis of U.S. Military drone strikes from 2002 – 2018 from data provided by
 the Bureau of Investigative Journalism
@@ -73,30 +77,31 @@ the Bureau of Investigative Journalism
 - Mapped specific strike locations and identified the most targeted groups
 Intreprid Potash Business P
 
-`Jan 2021 – Present`
+
 __Intrepid Potash Business Project__
+`Jan 2021 – Present`
 
 - Conducting multiple linear regression model tests to find significant correlations in company data
 which is helping management make key decisions on improving their production line
 
-`Mar 2021 – Present`
 __Mink Genome Project__
+`Mar 2021 – Present`
 
 -  Creating RNA-sequencing visualizations for BYU-Idaho biology professors, which will contribute greater
 understanding to the scientific community about the mechanisms of pregnancy
 
 
-
 ## Service and Work History
 
-`July 2021 – Sep 2021`
+
 __Big Giant Framing__, Framer
+`July 2021 – Sep 2021`
 
 - Install floor, wall & roof structures according to blueprints, for custom homes
 - Responsible to work independently or as a team to meet deadlines
 
-`Apr 2019 - July 2020`
 __ Ray's Chevron__, Cashier
+`Apr 2019 - July 2020`
 
 -	Counted daily entry of store revenue 
 -	Provided Customer service which helped to resolve issues customers had
@@ -105,9 +110,9 @@ __ Ray's Chevron__, Cashier
 
 
 
-`2015-2017`
-__Service Missionary__, Canada
 
+__Service Missionary__, Canada
+`2015-2017`
 
 
 
